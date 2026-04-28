@@ -127,6 +127,11 @@ function App() {
       </div>
 
       <RatioTable currentPrice={currentPrice} />
+           <div className="footer">
+        <p><b>Sitemizde verilen bilgiler tamamen tahmini hesaplamalar olup yatırım tavsiyesi değildir.</b></p>
+        <p><b>Soru ve öneri için: ziraatbesi@gmail.com</b></p>
+
+      </div>
     </>
   );
 }
